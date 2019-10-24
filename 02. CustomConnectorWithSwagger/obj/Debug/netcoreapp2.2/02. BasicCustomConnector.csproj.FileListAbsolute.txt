@@ -1,0 +1,16 @@
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\bin\Debug\netcoreapp2.2\02. BasicCustomConnector.deps.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\bin\Debug\netcoreapp2.2\02. BasicCustomConnector.runtimeconfig.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\bin\Debug\netcoreapp2.2\02. BasicCustomConnector.runtimeconfig.dev.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\bin\Debug\netcoreapp2.2\02. BasicCustomConnector.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\bin\Debug\netcoreapp2.2\02. BasicCustomConnector.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\bin\Debug\netcoreapp2.2\02. BasicCustomConnector.xml
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.csprojAssemblyReference.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.RazorAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.RazorAssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.AssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.RazorTargetAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.xml
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\BasicCustomConnector\obj\Debug\netcoreapp2.2\02. BasicCustomConnector.pdb

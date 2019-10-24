@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="plademocustomconnector" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\PatrickLamber\\source\\repos\\PowerPlattformDemos\\BasicCustomConnector\\obj\\Debug\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

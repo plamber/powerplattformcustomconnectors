@@ -1,0 +1,13 @@
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\bin\Release\netcoreapp2.2\01. SimpleRESTApi.deps.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\bin\Release\netcoreapp2.2\01. SimpleRESTApi.runtimeconfig.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\bin\Release\netcoreapp2.2\01. SimpleRESTApi.runtimeconfig.dev.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\bin\Release\netcoreapp2.2\01. SimpleRESTApi.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\bin\Release\netcoreapp2.2\01. SimpleRESTApi.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\obj\Release\netcoreapp2.2\01. SimpleRESTApi.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\obj\Release\netcoreapp2.2\01. SimpleRESTApi.RazorAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\obj\Release\netcoreapp2.2\01. SimpleRESTApi.RazorAssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\obj\Release\netcoreapp2.2\01. SimpleRESTApi.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\obj\Release\netcoreapp2.2\01. SimpleRESTApi.AssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\obj\Release\netcoreapp2.2\01. SimpleRESTApi.RazorTargetAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\obj\Release\netcoreapp2.2\01. SimpleRESTApi.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\SimpleRESTApi\obj\Release\netcoreapp2.2\01. SimpleRESTApi.pdb

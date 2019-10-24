@@ -1,0 +1,14 @@
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\bin\Debug\netcoreapp2.2\SimpleRESTApi.deps.json
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\bin\Debug\netcoreapp2.2\SimpleRESTApi.runtimeconfig.json
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\bin\Debug\netcoreapp2.2\SimpleRESTApi.runtimeconfig.dev.json
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\bin\Debug\netcoreapp2.2\SimpleRESTApi.dll
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\bin\Debug\netcoreapp2.2\SimpleRESTApi.pdb
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.csprojAssemblyReference.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.RazorAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.RazorAssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.AssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.RazorTargetAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.dll
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\SimpleRESTApi\obj\Debug\netcoreapp2.2\SimpleRESTApi.pdb

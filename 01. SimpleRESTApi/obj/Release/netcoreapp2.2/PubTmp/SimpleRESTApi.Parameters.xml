@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="demosimplerestapi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\PatrickLamber\\Documents\\GitHub\\M365-Bootcamp-Italy-2019\\Milano\\PowerPlattform\ Custom\ Connectors\\PowerPlattformDemos\\SimpleRESTApi\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

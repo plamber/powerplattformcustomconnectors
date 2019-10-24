@@ -1,0 +1,47 @@
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorAssemblyInfo.cache
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorAssemblyInfo.cs
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.AssemblyInfo.cs
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\bin\Debug\netcoreapp2.2\BasicCustomConnector.deps.json
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\bin\Debug\netcoreapp2.2\BasicCustomConnector.runtimeconfig.json
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\bin\Debug\netcoreapp2.2\BasicCustomConnector.runtimeconfig.dev.json
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\bin\Debug\netcoreapp2.2\BasicCustomConnector.dll
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\bin\Debug\netcoreapp2.2\BasicCustomConnector.pdb
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\bin\Debug\netcoreapp2.2\BasicCustomConnector.xml
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorTargetAssemblyInfo.cache
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.dll
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.xml
+C:\Users\PatrickLamber\source\repos\CustomApiTutorial\aspnetcorecustomflow\obj\Debug\netcoreapp2.2\BasicCustomConnector.pdb
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.deps.json
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.runtimeconfig.json
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.runtimeconfig.dev.json
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.dll
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.pdb
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.xml
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.csprojAssemblyReference.cache
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorAssemblyInfo.cache
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorAssemblyInfo.cs
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.AssemblyInfo.cs
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorTargetAssemblyInfo.cache
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.dll
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.xml
+C:\Users\PatrickLamber\source\repos\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.pdb
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.deps.json
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.runtimeconfig.json
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.runtimeconfig.dev.json
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.dll
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.pdb
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\bin\Debug\netcoreapp2.2\BasicCustomConnector.xml
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.csprojAssemblyReference.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorAssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.AssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.RazorTargetAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.dll
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.xml
+C:\Users\PatrickLamber\Documents\GitHub\M365-Bootcamp-Italy-2019\Milano\PowerPlattform Custom Connectors\PowerPlattformDemos\BasicCustomConnector\obj\Debug\netcoreapp2.2\BasicCustomConnector.pdb
