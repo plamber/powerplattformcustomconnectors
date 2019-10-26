@@ -4,7 +4,7 @@
     "title": "Products",
     "version": "v1"
   },
-  "host": "<putyourhosthere>",
+  "host": "putYourAddressWithoutProtocolHere",
   "schemes": [
     "https"
   ],
@@ -15,7 +15,7 @@
           "Products"
         ],
         "summary": "Get products",
-        "description": "Returns all products",
+        "description": "Return all products",
         "operationId": "GetProducts",
         "produces": [
           "text/plain",
@@ -40,8 +40,8 @@
         "tags": [
           "Products"
         ],
-        "summary": "Search product by name",
-        "description": "Returns all products that match a specific name",
+        "summary": "Get product by name",
+        "description": "Retruns all products that match a specific name",
         "operationId": "GetProductByName",
         "produces": [
           "text/plain",
@@ -74,7 +74,7 @@
         "tags": [
           "Products"
         ],
-        "summary": "Search product by price range",
+        "summary": "Get product by price range",
         "description": "Returns all products in a specific price range",
         "operationId": "GetProductByPriceRange",
         "produces": [

@@ -4,7 +4,7 @@
     "title": "Products",
     "version": "v1"
   },
-  "host": "<putyourhosthere>",
+  "host": "putYourAddressWithoutProtocolHere",
   "schemes": [
     "https"
   ],
@@ -12,7 +12,7 @@
     "/api/Products": {
       "get": {
         "tags": [
-          "GetProducts"
+          "Products"
         ],
         "summary": "Get secured products",
         "description": "Returns all secured products",
