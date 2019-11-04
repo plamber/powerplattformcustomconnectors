@@ -1,0 +1,17 @@
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\bin\Release\netcoreapp2.2\03. CustomConnectorWithKey.deps.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\bin\Release\netcoreapp2.2\03. CustomConnectorWithKey.runtimeconfig.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\bin\Release\netcoreapp2.2\03. CustomConnectorWithKey.runtimeconfig.dev.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\bin\Release\netcoreapp2.2\03. CustomConnectorWithKey.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\bin\Release\netcoreapp2.2\03. CustomConnectorWithKey.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.csprojAssemblyReference.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.RazorAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.RazorAssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.AssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.RazorTargetAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\bin\Release\netcoreapp2.2\Core.Products.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\bin\Release\netcoreapp2.2\Core.Products.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\03. CustomConnectorWithKey\obj\Release\netcoreapp2.2\03. CustomConnectorWithKey.csproj.CopyComplete

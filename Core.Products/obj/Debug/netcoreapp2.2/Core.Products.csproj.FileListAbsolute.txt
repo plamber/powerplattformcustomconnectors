@@ -1,0 +1,9 @@
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\bin\Debug\netcoreapp2.2\Core.Products.deps.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\bin\Debug\netcoreapp2.2\Core.Products.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\bin\Debug\netcoreapp2.2\Core.Products.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.AssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.csprojAssemblyReference.cache

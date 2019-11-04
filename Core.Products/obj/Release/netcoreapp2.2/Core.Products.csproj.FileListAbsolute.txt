@@ -6,3 +6,4 @@ C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Prod
 C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Release\netcoreapp2.2\Core.Products.AssemblyInfo.cs
 C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Release\netcoreapp2.2\Core.Products.dll
 C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Release\netcoreapp2.2\Core.Products.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Release\netcoreapp2.2\Core.Products.csprojAssemblyReference.cache

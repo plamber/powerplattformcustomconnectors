@@ -25,29 +25,29 @@ namespace customconnector.withswagger
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.Configure<SwaggerSettings>(Configuration.GetSection("SwaggerSettings"));
-            services.AddSingleton<IProductsRepository>(new ProductsRepository());
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = _swaggerApiName, Version = "v1" });
-                c.DocumentFilter<BasePathDocumentFilter>();
-                c.EnableAnnotations();
-            });
+            //services.Configure<SwaggerSettings>(Configuration.GetSection("SwaggerSettings"));
+            //services.AddSingleton<IProductsRepository>(new ProductsRepository());
+      
+            //services.AddSwaggerGen(c =>
+            //{
+            //    c.SwaggerDoc("v1", new OpenApiInfo { Title = _swaggerApiName, Version = "v1" });
+            //    c.EnableAnnotations();
+            //    //c.DocumentFilter<BasePathDocumentFilter>();
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            app.UseSwagger(c =>
-            {
-                c.SerializeAsV2 = true;
-            });
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", _swaggerApiName);
-            });
+            //app.UseSwagger(c =>
+            //{
+            //    c.SerializeAsV2 = true;
+            //});
+            //app.UseSwaggerUI(c =>
+            //{
+            //    c.SwaggerEndpoint("/swagger/v1/swagger.json", _swaggerApiName);
+            //});
 
             if (env.IsDevelopment())
             {

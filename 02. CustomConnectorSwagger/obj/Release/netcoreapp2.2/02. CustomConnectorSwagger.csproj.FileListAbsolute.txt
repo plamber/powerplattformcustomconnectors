@@ -1,0 +1,17 @@
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\bin\Release\netcoreapp2.2\02. CustomConnectorSwagger.deps.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\bin\Release\netcoreapp2.2\02. CustomConnectorSwagger.runtimeconfig.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\bin\Release\netcoreapp2.2\02. CustomConnectorSwagger.runtimeconfig.dev.json
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\bin\Release\netcoreapp2.2\02. CustomConnectorSwagger.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\bin\Release\netcoreapp2.2\02. CustomConnectorSwagger.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.csproj.CoreCompileInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.RazorAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.RazorAssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.AssemblyInfoInputs.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.AssemblyInfo.cs
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.RazorTargetAssemblyInfo.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\bin\Release\netcoreapp2.2\Core.Products.dll
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\bin\Release\netcoreapp2.2\Core.Products.pdb
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.csprojAssemblyReference.cache
+C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\02. CustomConnectorSwagger\obj\Release\netcoreapp2.2\02. CustomConnectorSwagger.csproj.CopyComplete
