@@ -7,3 +7,12 @@ C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Prod
 C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.dll
 C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.pdb
 C:\Users\PatrickLamber\Documents\GitHub\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.csprojAssemblyReference.cache
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\bin\Debug\netcoreapp2.2\Core.Products.deps.json
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\bin\Debug\netcoreapp2.2\Core.Products.dll
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\bin\Debug\netcoreapp2.2\Core.Products.pdb
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.csprojAssemblyReference.cache
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.AssemblyInfoInputs.cache
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.AssemblyInfo.cs
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.csproj.CoreCompileInputs.cache
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.dll
+C:\_GITHUB_\powerplattformcustomconnectors\Core.Products\obj\Debug\netcoreapp2.2\Core.Products.pdb
