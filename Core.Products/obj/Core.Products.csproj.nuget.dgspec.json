@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PatrickLamber\\Documents\\GitHub\\powerplattformcustomconnectors\\Core.Products\\Core.Products.csproj": {}
+    "C:\\_GITHUB_\\powerplattformcustomconnectors\\Core.Products\\Core.Products.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PatrickLamber\\Documents\\GitHub\\powerplattformcustomconnectors\\Core.Products\\Core.Products.csproj": {
+    "C:\\_GITHUB_\\powerplattformcustomconnectors\\Core.Products\\Core.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PatrickLamber\\Documents\\GitHub\\powerplattformcustomconnectors\\Core.Products\\Core.Products.csproj",
+        "projectUniqueName": "C:\\_GITHUB_\\powerplattformcustomconnectors\\Core.Products\\Core.Products.csproj",
         "projectName": "Core.Products",
-        "projectPath": "C:\\Users\\PatrickLamber\\Documents\\GitHub\\powerplattformcustomconnectors\\Core.Products\\Core.Products.csproj",
-        "packagesPath": "C:\\Users\\PatrickLamber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PatrickLamber\\Documents\\GitHub\\powerplattformcustomconnectors\\Core.Products\\obj\\",
+        "projectPath": "C:\\_GITHUB_\\powerplattformcustomconnectors\\Core.Products\\Core.Products.csproj",
+        "packagesPath": "C:\\Users\\EmanueleBartolesi\\.nuget\\packages\\",
+        "outputPath": "C:\\_GITHUB_\\powerplattformcustomconnectors\\Core.Products\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PatrickLamber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EmanueleBartolesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
